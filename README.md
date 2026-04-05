@@ -1,80 +1,40 @@
-<div align="center">
-  <img src="./assets/hero.svg" alt="Animated profile hero for ibragmv" width="100%" />
-</div>
+# IBRAGMV
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ibragmv?style=flat&label=FOLLOWERS&labelColor=000000&color=111111&logo=github&logoColor=E8E8E8" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/last-commit/ibragmv/ibragmv?style=flat&label=LAST%20UPDATE&labelColor=000000&color=111111&logo=git&logoColor=E8E8E8" alt="Last update" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-D71921?style=flat&labelColor=000000" alt="Status online" />
+`FULLSTACK JUNIOR DEVELOPER / PYTHON JUNIOR DEVELOPER / ML ENTHUSIAST`
 
-</div>
+I build full applications and services with AI integrations and AI tools.  
+Right now I am focused on becoming stronger at shipping complete products, improving my Python and fullstack skills, and exploring practical ML workflows.
 
-## `[ PROFILE ]`
+## About Me
 
-Product engineer building sharp interfaces, calm systems, and AI-native tools that feel finished.
+- Junior fullstack developer
+- Junior Python developer
+- ML enthusiast
+- Interested in real product development, not isolated demos
+- Working on apps and services where AI is part of the product itself
 
-```text
-MINIMAL NOISE / MAXIMUM SIGNAL
-```
+## What I Work On
 
-## `[ MANIFEST ]`
+- Fullstack applications
+- Backend services
+- AI integrations inside products
+- AI tools for real workflows
+- ML experiments with practical use cases
 
-```text
-01  build with taste
-02  keep the structure visible
-03  remove weak parts instead of hiding them
-04  ship like it will be maintained for years
-```
+## Current Focus
 
-## `[ SYSTEM ]`
+- Writing cleaner and more maintainable code
+- Building end-to-end projects instead of small disconnected examples
+- Learning how to design AI features that are actually useful
+- Growing from junior level through real shipping experience
 
-| CHANNEL | OUTPUT |
-| --- | --- |
-| `UI` | monochrome surfaces, hard hierarchy, expressive typography |
-| `CODE` | production discipline, no shortcuts, no dead weight |
-| `STACK` | bun / react / next / ui systems / ai workflows |
-| `BIAS` | useful products over demo theater |
+## Principles
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+- Build things that can grow beyond a prototype
+- Keep the codebase understandable
+- Prefer useful features over flashy ones
+- Treat AI as a tool inside the product, not as decoration
 
-### `[ CURRENTLY ]`
+## GitHub
 
-- profile surfaces
-- product experiments
-- frontend systems
-- agent tooling
-
-    </td>
-    <td width="50%" valign="top">
-
-### `[ OPTIMIZE FOR ]`
-
-- clear hierarchy
-- maintainable code
-- strong visual direction
-- momentum without mess
-
-    </td>
-  </tr>
-</table>
-
-## `[ LIVE SIGNAL ]`
-
-<details>
-  <summary><strong>OPEN PANEL</strong></summary>
-
-```text
-> BOOTING PROFILE SURFACE
-> MODE................. DARK-FIRST
-> GRID................. LOCKED
-> NOISE FILTER......... ACTIVE
-> STATUS............... ONLINE
-```
-
-</details>
-
-## `[ CONTACT SURFACE ]`
-
-If you care about product taste, clean systems, and interfaces that do not look assembled by accident, we will probably get along.
+Here I share projects, experiments, and ideas around fullstack development, Python, ML, and AI-powered products.
