@@ -17,7 +17,8 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/%5B%20Python%20%5D-0D1117?style=flat-square&logo=python&logoColor=F7C948&labelColor=111827" alt="Python badge" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/%5B%20SQL%20%5D-0D1117?style=flat-square&logo=postgresql&logoColor=4EA1F3&labelColor=111827" alt="SQL badge" /></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/%5B%20ML%20%5D-0D1117?style=flat-square&logo=scikitlearn&logoColor=F97316&labelColor=111827" alt="ML badge" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/%5B%20Git%20%5D-0D1117?style=flat-square&logo=git&logoColor=F05032&labelColor=111827" alt="Git badge" /></a>
+  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/%5B%20Vite%20%5D-0D1117?style=flat-square&logo=vite&logoColor=A855F7&labelColor=111827" alt="Vite badge" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/%5B%20C%20%5D-0D1117?style=flat-square&logo=c&logoColor=A8B9CC&labelColor=111827" alt="C badge" /></a>
 </p>
 
 </div>
