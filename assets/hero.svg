@@ -1,0 +1,112 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ibragmv profile hero</title>
+  <desc id="desc">Animated hero banner with moving gradients, floating glass panels, and terminal-inspired typography.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="48" x2="1164" y2="604" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617">
+        <animate attributeName="stop-color" values="#020617;#0f172a;#020617" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#0F172A">
+        <animate attributeName="stop-color" values="#0f172a;#111827;#0f172a" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#1E293B">
+        <animate attributeName="stop-color" values="#1e293b;#172554;#1e293b" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="line" x1="260" y1="122" x2="1000" y2="122" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(218 180) rotate(54.8048) scale(284.476 284.476)">
+      <stop stop-color="#38BDF8" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1028 470) rotate(131.186) scale(302.118 302.118)">
+      <stop stop-color="#F97316" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
+  <rect width="1280" height="640" rx="32" fill="url(#grid)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;18 12;0 0" dur="18s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="56" y="56" width="1168" height="528" rx="28" fill="#020617" fill-opacity="0.32" stroke="#E2E8F0" stroke-opacity="0.14"/>
+
+  <circle cx="218" cy="180" r="208" fill="url(#glowLeft)" filter="url(#blur)">
+    <animate attributeName="cx" values="218;258;218" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="180;142;180" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1028" cy="470" r="220" fill="url(#glowRight)" filter="url(#blur)">
+    <animate attributeName="cx" values="1028;986;1028" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="470;510;470" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.75">
+    <rect x="128" y="104" width="144" height="34" rx="17" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.32"/>
+    <text x="152" y="126" fill="#E2E8F0" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="14" letter-spacing="0.18em">PROFILE README</text>
+  </g>
+
+  <rect x="128" y="164" width="612" height="4" rx="2" fill="url(#line)">
+    <animate attributeName="width" values="412;612;512;612" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="128" y="248" fill="#F8FAFC" font-family="'IBM Plex Sans', 'Segoe UI', sans-serif" font-size="86" font-weight="700" letter-spacing="0.08em">IBRAGMV</text>
+  <text x="132" y="304" fill="#CBD5E1" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="26">design-minded engineer // ships clean, sharp, alive things</text>
+
+  <g opacity="0.95">
+    <text x="132" y="392" fill="#E2E8F0" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="22">status:</text>
+    <text x="232" y="392" fill="#38BDF8" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="22">building interfaces with taste</text>
+    <text x="232" y="392" fill="#F97316" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="22" opacity="0">crafting full-stack systems that hold up
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="232" y="392" fill="#A855F7" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="22" opacity="0">turning AI workflows into real products
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g opacity="0.86">
+    <text x="132" y="458" fill="#94A3B8" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="18">$ bun create | refine | polish | repeat</text>
+    <text x="132" y="496" fill="#94A3B8" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="18">$ minimal noise, maximum signal</text>
+  </g>
+
+  <g transform="translate(820 148)">
+    <rect width="300" height="118" rx="22" fill="#0F172A" fill-opacity="0.66" stroke="#E2E8F0" stroke-opacity="0.18"/>
+    <rect x="22" y="22" width="76" height="10" rx="5" fill="#38BDF8"/>
+    <rect x="22" y="44" width="212" height="8" rx="4" fill="#E2E8F0" fill-opacity="0.36"/>
+    <rect x="22" y="62" width="248" height="8" rx="4" fill="#E2E8F0" fill-opacity="0.18"/>
+    <rect x="22" y="84" width="142" height="12" rx="6" fill="#F97316" fill-opacity="0.74"/>
+    <animateTransform attributeName="transform" type="translate" values="820 148;836 134;820 148" dur="8s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(920 314)">
+    <rect width="218" height="84" rx="20" fill="#111827" fill-opacity="0.7" stroke="#E2E8F0" stroke-opacity="0.16"/>
+    <text x="24" y="36" fill="#E2E8F0" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="16">focus_mode</text>
+    <text x="24" y="60" fill="#38BDF8" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="16">ON</text>
+    <circle cx="184" cy="42" r="10" fill="#38BDF8" filter="url(#soft)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <animateTransform attributeName="transform" type="translate" values="920 314;896 334;920 314" dur="10s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(772 454)">
+    <rect width="332" height="80" rx="20" fill="#0B1120" fill-opacity="0.76" stroke="#E2E8F0" stroke-opacity="0.18"/>
+    <text x="24" y="36" fill="#E2E8F0" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="16">stack</text>
+    <text x="24" y="60" fill="#CBD5E1" font-family="'IBM Plex Mono', 'JetBrains Mono', Menlo, monospace" font-size="16">bun / ts / react / next / agents</text>
+    <animateTransform attributeName="transform" type="translate" values="772 454;786 438;772 454" dur="9s" repeatCount="indefinite"/>
+  </g>
+
+  <path d="M95 562C198 510 248 524 320 546C430 578 478 570 550 526C626 479 699 471 796 517C882 558 956 574 1187 518" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.58" stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset" values="0;-96" dur="8s" repeatCount="indefinite"/>
+  </path>
+</svg>
