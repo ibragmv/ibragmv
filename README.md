@@ -2,7 +2,7 @@
 
 # Hi, I'm Ibragim 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=TypeScript+Developer;Python+Junior+Developer;ML+Enthusiast;Building+apps+and+services+with+AI+integrations" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=33&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=TypeScript+Developer;Python+Junior+Developer;ML+Enthusiast;Building+apps+and+services+with+AI+integrations" alt="Typing intro" />
 
 <br />
 
