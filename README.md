@@ -28,4 +28,3 @@ I build applications and services with AI integrations and practical ML workflow
 - 🚀 I like building complete products, not isolated demos.
 - 🤖 I care about AI features that solve real problems.
 - 🐍 I’m growing through hands-on work in Python, fullstack development, and ML.
-- ✍️ Blog: [ibragmv.vercel.app](https://ibragmv.vercel.app)
